@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b445ec8a.css",
+    "main.js": "/static/js/react-lcw-config-0.0.0.js",
+    "main.css.map": "/static/css/main.b445ec8a.css.map",
+    "main.js.map": "/static/js/react-lcw-config-0.0.0.js.map",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.b445ec8a.css",
+    "static/js/react-lcw-config-0.0.0.js"
+  ]
+}
