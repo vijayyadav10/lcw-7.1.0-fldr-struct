@@ -1,0 +1,9 @@
+{
+    "microservices": [],
+    "microfrontends": [],
+    "svc": [],
+    "name": "lcw-7.1.0-fldr-struct",
+    "version": "0.0.1",
+    "description": "lcw-7.1.0-fldr-struct description",
+    "type": "bundle"
+}
