@@ -3,6 +3,7 @@
 ######################
 
 .entando
+node_modules
 
 ######################
 # IntelliJ IDEA
