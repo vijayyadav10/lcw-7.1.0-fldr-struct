@@ -29,8 +29,8 @@
         }
     ],
     "svc": [],
-    "name": "lcw-7.1.0-fldr-struct",
+    "name": "lcw-fldr-struct",
     "version": "0.0.1",
-    "description": "lcw-7.1.0-fldr-struct description",
+    "description": "lcw-fldr-struct",
     "type": "bundle"
 }
